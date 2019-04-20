@@ -1,0 +1,61 @@
+{
+  "colors_by_id": {
+    "1": { "color" : "red", "hex": "#ff0000"},
+    "2": { "color" : "blue", "hex": "#0000ff"},
+    "3": { "color" : "green", "hex": "#008000"},
+    "4": { "color" : "fuchsia", "hex": "#ff00ff"},
+    "5": { "color" : "gray", "hex": "#808080"},
+    "6": { "color" : "yellow", "hex": "#ffff00"},
+    "7": { "color" : "purple", "hex": "#800080"},
+    "8": { "color" : "orange", "hex": "#ff7f24"},
+    "9": { "color" : "violet", "hex": "#7f00ff"}
+  },
+  "selected_colors": [1, 4, 9],
+
+  "filters": [
+    {
+      "color": "red",
+      "selected": true
+    },
+    {
+      "color": "blue",
+      "selected": false
+    },
+    {
+      "color": "green",
+      "selected": false
+    },
+    {
+      "color": "pink",
+      "selected": false
+    },
+    {
+      "color": "gray",
+      "selected": false
+    },
+    {
+      "color": "green",
+      "selected": false
+    },
+    {
+      "color": "green",
+      "selected": false
+    },
+    {
+      "color": "green",
+      "selected": false
+    },
+    {
+      "color": "green",
+      "selected": false
+    },
+    {
+      "color": "green",
+      "selected": false
+    },
+    {
+      "color": "green",
+      "selected": false
+    }
+  ]
+}
